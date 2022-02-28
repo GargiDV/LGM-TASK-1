@@ -7,6 +7,10 @@
       
   }
   
+.lblname{
+  font-family: 'Courier New', Courier, monospace;
+}
+
   body {
     background-color: rgb(235, 217, 220);
     
